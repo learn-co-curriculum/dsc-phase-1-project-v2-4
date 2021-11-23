@@ -289,7 +289,9 @@ Unable to prepare data using `pandas`
 
 Please start by reviewing the contents of this project description. If you have any questions, please ask your instructor ASAP.
 
-Next, you will need to create a GitHub repository. There are three options:
+Next, you will need to complete the [***Project Proposal***](#project_proposal) which must be reviewed by your instructor before you can continue with the project.
+
+Then, you will need to create a GitHub repository. There are three options:
 
 1. Look at the [Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and follow the directions in the MVP branch.
 2. Fork the [Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-3), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
