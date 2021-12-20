@@ -2,7 +2,7 @@
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-3/master/awesome.gif)
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
 
 Now you will put your new skills to use with a large end-of-Phase project!
 
@@ -31,11 +31,19 @@ In the folder `zippedData` are movie datasets from:
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or `pd.read_csv`, while the data from IMDB is located in a SQLite database.
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+![movie data erd](movie_data_erd.jpeg)
+
+Note that the above diagram shows ONLY the IMDB data. You will need to look carefully at the features to figure out how the IMDB data relates to the other provided data files.
+
+It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind, we recommend you use only the following data files:
+
+* `im.db.zip`
+  * Zipped SQLite database (you will need to unzip then query using SQLite)
+  * `movie_basics` and `movie_ratings` tables are most relevant
+* `bom.movie_gross.csv.gz`
+  * Compressed CSV file (you can open without expanding the file using `pd.read_csv`)
 
 ### Key Points
 
