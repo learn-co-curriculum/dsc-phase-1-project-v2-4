@@ -1,8 +1,11 @@
 # Microsoft's Foray Into the Movie World
-Flatiron School Data Science project
+Flatiron School Data Science: Project 1
 - **Author**: Zaid Shoorbajee
 - **Instructor**: Matt Carr
 - **Pace**: Flex, 20 weeks
+
+![Microsoft Building](./images/msft-bldg-cropped.jpg)
+Image source: [Pixabay](https://pixabay.com/photos/building-cologne-facade-1011876/)
 
 ## Overview
 
@@ -20,6 +23,9 @@ I use the **number of votes a movie has received** on IMDb as an analogue for th
 - How much of Microsoft's budget should it focus on making comedies? 
 - How much fo Microsoft's budget should it focus on making animated movies?
 ___
+
+![Person watching TV](./images/streaming-cropped.jpg)
+Image source: [Pixabay](https://pixabay.com/photos/tv-man-watching-room-office-3774381/)
 
 ## Data Understanding
 
@@ -47,7 +53,7 @@ This, in choosing number of votes as our measure of success, we are reassured th
 
 ## Results: 
 
-**The top 10 movie genres in terms of average number of votes on IMDb are:**
+### The top 10 movie genres in terms of average number of votes on IMDb are:
 - Adventure
 - Fantasy
 - Sci-Fi
@@ -63,13 +69,13 @@ This, in choosing number of votes as our measure of success, we are reassured th
 
 ---
 
-**Of the top 25% best-performing movies in our dataset, 616 out of 1,826, or 33.73%, are comedies.**
+### Of the top 10% best-performing movies, 2,281 out of 7,304 — or 31.22% — are comedies.
 
 ![Breakdown by comedy](./images/comedies.png)
 
 ---
 
-**Of the top 25% best-performing movies in our dataset, 108 out of 1,826, or 5.91%, are animated.**
+### Of the top 10% best-performing movies, 287 out of 7,304, — or 3.93% — are animated.
 
 ![Breakdown by animated](./images/animated.png)
 
@@ -93,11 +99,6 @@ In this analysis I attemped to determine the most successful movie genres as wel
     - Romance
     
     
-2. Microsoft should focus about a third of its efforts (in terms of budget or number of movies) on comedy movies.
+2. Microsoft should focus about a third of its efforts on comedy movies.
 
-3. Microsoft should focus about 6 percent of its efforts (in terms of budget or number of movies) on animated movies.
-
-
-```python
-
-```
+3. Microsoft should focus about 4 percent of its efforts on animated movies.
