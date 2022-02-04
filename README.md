@@ -37,7 +37,7 @@ The data I've been provided is housed in a SQL file, from which I primarily use 
 
 More information [here](https://www.imdb.com/interfaces/).
 
-The two tables have a shared column `movie_id`, which is a unique identifier for each movie. I grouped the movied by genre to see each genre's average rating and and average number of votes.
+The two tables have a shared column `movie_id`, which is a unique identifier for each movie. I grouped the movies by genre to see each genre's average number of votes.
 
 ---
 
