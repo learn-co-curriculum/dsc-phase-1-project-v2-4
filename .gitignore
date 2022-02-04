@@ -6,4 +6,3 @@ __pycache__
 !*.zip
 zippedData/im.db
 README.ipynb
-draft_notebook.ipynb
