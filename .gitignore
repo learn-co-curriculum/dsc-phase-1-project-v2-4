@@ -5,3 +5,5 @@ __pycache__
 .gitattributes
 !*.zip
 zippedData/im.db
+README.ipynb
+draft_notebook.ipynb
