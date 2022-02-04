@@ -15,7 +15,7 @@ ___
 
 ## Business Problem
 
-**Measuing success:** A first instict might be to analyze the types of movies that have the highest return-on-investment at the box office. However, in the streaming age, that might not be the best measure of success. Popular movies are increasingly being [released directly to streaming services](https://variety.com/2022/film/box-office/disney-pixar-turning-red-disney-plus-subscribers-1235149836/), and the COVID-19 pandemic has dissuaded many people from going to the theaters anymore. A better measure of success would be the number of people that will actually watch the movie. Whether Microsoft plans to sell its movies to distributors like Netflix or spin up its own streaming service to host the films, it needs to determine what kinds of movies are going to attract the most viewers in numbers.
+**Measuing success:** A first instict might be to narrow down the attributes of movies that have the highest return-on-investment at the box office. However, in the streaming age, that might not be the best measure of success. Popular movies are increasingly being [released directly to streaming services](https://variety.com/2022/film/box-office/disney-pixar-turning-red-disney-plus-subscribers-1235149836/), and the COVID-19 pandemic has dissuaded many people from going to the theaters anymore. A better measure of success would be the number of people that will actually watch the movie. Whether Microsoft plans to sell its movies to distributors like Netflix or spin up its own streaming service to host the films, it needs to determine what kinds of movies are going to attract the most viewers in numbers.
 
 I use the **number of votes a movie has received** on IMDb as an analogue for the number of viewers. The votes may be negative or positive, but we can infer that a vote means someone actually watched the film. Using this metric, I attempt to answer these questions:
 
@@ -43,11 +43,9 @@ The two tables have a shared column `movie_id`, which is a unique identifier for
 
 ## Measuring Success
 
-I use **number of votes** as an indicator of a movie's of success. In the streaming age, this is arguably a better indicator of a movie's popularity (and therefore incentive to subscribe to streaming service) as opposed to box office revenue and ROI.
+I use **number of votes** as an indicator of a movie's of success. In the streaming age, this is arguably a better indicator of a movie's popularity as opposed to return on investment at the box office.
 
-I also found that **number of votes** and **average rating** have a positive correlation. 
-
-This, in choosing number of votes as our measure of success, we are reassured that that it's associated with a higher movie rating anyway.
+I also found that **number of votes and average rating are positively correlated.** Thus, in choosing number of votes as our measure of success, we are reassured that that it's generally associated with a higher movie rating.
 
 ---
 
