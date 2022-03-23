@@ -11,9 +11,14 @@ Data from two different sources were used. Data from the IMDb Database contained
 The Analysis uses descriptive analysis which shows the relationship between variable. It shows how some variables are related and could be used to make inferences in data.
 
 ## Results
+This graph shows the highest rated genre by genre. It allows an assessment about the more well received genres to an audience.
+![](images/highest_rated_genre.png)
 
+This graph shows the top rated directors within each genre. 
+![](images/top_directors.png)
 
-
+This graph shows the average budget within each genre.  
+![](images/average_movie_budget.png)
 
 
 ## Conclusions
