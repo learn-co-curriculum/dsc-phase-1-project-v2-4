@@ -1,13 +1,15 @@
 Overview
-
+-We are using data science and data analysis to find 
 Business Understanding
 
 Include stakeholder and key business questions
-
+-What sort of budget 
+-What genre of films generate the highest ROI?
+-How we efficiently find the right director and writer for this film?
 Data Understanding and Analysis
 
 Source of data
-
+- source of data includes: IMDB database, Rotten Tomatoes, Box Office Mojo, The MovieDB, and The Numbers.
 Description of data
 
 Three visualizations (the same visualizations presented in the slides and notebook)
