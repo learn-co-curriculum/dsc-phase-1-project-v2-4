@@ -1,15 +1,17 @@
 Overview
--We are using data science and data analysis to find 
+We are looking to provide Microsoft with actionable information regarding high ROI studio projects for Microsoft's new streaming service. 
 Business Understanding
-
+Some of the insights we hope to discover for Microsoft optimal budget levels, suggested genres that have a lower risk profile, and optimal directors and writers for this piece of work. 
 Include stakeholder and key business questions
+We plan to address concerns involving the risk profile of certain genres, 
 -What sort of budget 
 -What genre of films generate the highest ROI?
 -How we efficiently find the right director and writer for this film?
 Data Understanding and Analysis
 
 Source of data
-- source of data includes: IMDB database, Rotten Tomatoes, Box Office Mojo, The MovieDB, and The Numbers.
+We are sourcing our data from several difference database vendors including: IMDB database, Rotten Tomatoes, Box Office Mojo, The MovieDB, and The Numbers. We received the data files in CSV, TSV and Zipped SQLite format.
+
 Description of data
 
 Three visualizations (the same visualizations presented in the slides and notebook)
