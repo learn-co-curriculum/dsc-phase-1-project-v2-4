@@ -30,7 +30,7 @@ visualization_images/Ratings_and_Vote_unfiltered.png
 ![alt text](https://github.com/[zander1268]/[2.0-Microsoft-Movie-Analysis-AMA-Productions
 ]/blob/[master]/image.jpg?raw=true)
 
-![Budget Tier and Adjusted ROI](/visualization_images/Budget_Tier_and_Adjusted_ROI.png)
+![Budget Tier and Adjusted ROI](/visualization_images/Profit and rating correlation.png)
 
 ## Conclusion
 
