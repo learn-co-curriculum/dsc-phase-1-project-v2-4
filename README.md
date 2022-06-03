@@ -1,15 +1,10 @@
 ## Overview
 
-We are looking to provide Microsoft with actionable information regarding high ROI studio projects for Microsoft's new streaming service. The analysis of variables such as budget level, gross box office, ROI, ROI by genre, movie ratings and IMDB ratings by director should help us in deducing useful insights. 
+We are looking to provide Microsoft with actionable information regarding high ROI studio projects for Microsoft's new streaming service. The analysis of variables such as budget level, gross box office, ROI, ROI/profit by genre, movie ratings and IMDB ratings by director should help us in deducing useful insights. 
 
 ## Business Understanding
 
-Some of the insights we hope to discover for Microsoft optimal budget levels, suggested genres that have a lower risk profile, and optimal directors and writers for this piece of work. 
-Include stakeholder and key business questions
-We plan to address concerns involving the risk profile of certain genres, 
--What sort of budget 
--What genre of films generate the highest ROI?
--How we efficiently find the right director and writer for this film?
+Some of the insights we hope to discover for Microsoft are optimal budget levels, suggested genres that have a lower risk profile, and optimal directors and writers for this piece of work. Our questions of interest include: what is the optimal budget level for our film?, what genre of film has the best ROI despite ratings level?, and what director has high ratings ratings while also displaying a large audience reach?
 
 ## Data Understanding and Analysis
 
