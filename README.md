@@ -47,17 +47,16 @@ We found that investments in blockbusters produce a higher risk adjusted ROI tha
 ## Repository Structure
 
 ├── 2.0-Microsoft-Movie-Analysis-AMA-Productions
-|
-├──CONTRIBUTING.md
-├──LICENSE.md
-├──awesome.gif
-├──im.db
-├──.gitignore
-├── zippedData/
-├── visualization_images
+│   ├── final_notebook.ipynb
+│   ├── AMA_Productions__Microsoft_Streaming_Service.pdf
+│   ├── README.md
+│   └── .gitignore
 ├── movie_data_erd.jpeg
-├── README.md
-├── AMA_Productions__Microsoft_Streaming_Service.pdf
-└── final_notebook.ipynb
+├── visualization_images
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── zippedData/
+├──awesome.gif
+└── im.db
 
 
