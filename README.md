@@ -17,8 +17,8 @@ We plan to address concerns involving the risk profile of certain genres,
 
 We are sourcing our data from several difference database vendors including: IMDB database, Rotten Tomatoes, Box Office Mojo, The MovieDB, and The Numbers. We received the data files in CSV, TSV and Zipped SQLite format. The IMDB SQLite file includes eight different tables, with each table having from two to eight columns. The CSV files incorporated data from The Movie Database, Box Office Mojo, and The Numbers. These files have anywhere from six to eleven columns and include key data such as gross box office, budget, and movie titles. The TSV files covers the Rotten Tomato data, having between nine to thirteen columns.
 
-Our presentation named "Win the Streaming Wars By Minimizing Production Risk" can be found at:
-https://docs.google.com/presentation/d/1eHM_7yCK9uwUq6WAfCs-Bu5rWZLCqV8IY08QTImrDhY/edit#slide=id.g130ecf64834_0_2
+Our presentation, where we analyze our dataset can be found at:
+["Win the Streaming Wars By Minimizing Production Risk"](https://docs.google.com/presentation/d/1eHM_7yCK9uwUq6WAfCs-Bu5rWZLCqV8IY08QTImrDhY/edit#slide=id.g130ecf64834_0_2)
 
 ## Description of data
 
@@ -30,12 +30,18 @@ visualization_images/Ratings_and_Vote_unfiltered.png
 ![alt text](https://github.com/[zander1268]/[2.0-Microsoft-Movie-Analysis-AMA-Productions
 ]/blob/[master]/image.jpg?raw=true)
 
-![Budget Tier and Adjusted ROI](/visualization_images/Profit and rating correlation.png)
+![Profit and Ratings Correlation](visualization_images_Profit_and_rating_correlation.png)
+
+
+![Budget Tier and Adjusted ROI](visualization_images/Budget_Tier_and_Adjusted_ROI.png)
+
+![Ratings and Votes](visualization_images/Ratings_and_Vote_filtered.png)
+
+
 
 ## Conclusion
 
-Summary of conclusions including three relevant findings
-
+We found that investments in blockbusters produce a higher risk adjusted ROI than lower budget films. Romance is the most derisked genre, as even the failures (measured bu ratings) generate a profit. Choose the best rated directors that produce the highest number of votes (or "buzz"). A Christopher Nolan romance blockbuster coming soon to theaters near you!
 
 
 
