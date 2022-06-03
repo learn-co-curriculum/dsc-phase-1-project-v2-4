@@ -28,15 +28,11 @@
 
 ![Profit and Ratings Correlation](visualization_images/Profit_and_rating_correlation.png)
 
-Lastly, we are looking to find high impact directors that will create high impact and audience engagement. 
-
-
+Lastly, we are looking to find high impact directors that will create high impact and audience engagement. To find desirable director choices, we must INNER JOIN the movie_basics and persons tables to connect the person_id with the primary_name variable. From here, we must clean the data and remove unnecessary columns such as birth_year and primary_profession. From here, we INNER JOIN again into the directors table and must remove the dulplicate column movie_id. From here we took the top .5% of directors in number of votes from a sorted list of highly rated directors. The chart below describes our findings. High impact and high reach directors who produce quality content such as Christopher Nolan and Tim Miller stand out versus the field. 
 
 ![Ratings and Vote Totals By Director](visualization_images/Ratings_and_Vote_unfiltered.png)
 
 ![Ratings and Vote Totals By Director](visualization_images/Ratings_and_Vote_filtered.png)
-
-
 
 ## Conclusion
 
@@ -45,10 +41,7 @@ Lastly, we are looking to find high impact directors that will create high impac
 ## Next Steps
 
 -Further examine genre and director performance produce hiring priorities for each of our proposed budget tiers
--Determine the best timing and placement of the film release using release dates available, as well as regions alogn with previously calculated ROI's
-
-
-
+-Determine the best timing and placement of the film release using release dates available, as well as regions alongwith previously calculated ROI's
 
 ## Repository Structure
 
@@ -60,10 +53,8 @@ Lastly, we are looking to find high impact directors that will create high impac
 │   └── .gitignore
 ├── movie_data_erd.jpeg
 ├── visualization_images
-├── CONTRIBUTING.md
 ├── LICENSE.md
 ├── zippedData/
-├──awesome.gif
 └── im.db
 ```
 
