@@ -30,18 +30,18 @@ visualization_images/Ratings_and_Vote_unfiltered.png
 ![alt text](https://github.com/[zander1268]/[2.0-Microsoft-Movie-Analysis-AMA-Productions
 ]/blob/[master]/image.jpg?raw=true)
 
-![Profit and Ratings Correlation](/visualization_images/Profit/and/rating/correlation.png)
+![Profit and Ratings Correlation](visualization_images_Profit_and_rating_correlation.png)
 
 
-/../main/assets/images/electrocat.png
+![Budget Tier and Adjusted ROI](visualization_images/Budget_Tier_and_Adjusted_ROI.png)
 
+![Ratings and Votes](visualization_images/Ratings_and_Vote_filtered.png)
 
 
 
 ## Conclusion
 
-Summary of conclusions including three relevant findings
-
+We found that investments in blockbusters produce a higher risk adjusted ROI than lower budget films. Romance is the most derisked genre, as even the failures (measured bu ratings) generate a profit. Choose the best rated directors that produce the highest number of votes (or "buzz"). A Christopher Nolan romance blockbuster coming soon to theaters near you!
 
 
 
