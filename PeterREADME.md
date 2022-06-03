@@ -25,7 +25,7 @@ Director Impact on Film Performance
 
 One of the links that we wanted to take a closer look at is the link that a director has on the film's performance in the market. When we analyze the data and look at the films that have not just been box office sensations, but also the most profitable, we notice a common theme. There is a strong overrepresentation of many of the same directors within the best performing film projects. In the top 500 most profitable movies that we analyzed, here are the directors that appeared the most frequently: 
 
-![awesome](http://localhost:8888/view/images/Top500perdirector.png)
+![Directors](https://github.com/YueYu-95/Microsoft-Movie-Analysis/blob/master/images/Top500perdirector.png?raw=true)
 
 
 If we take an even closer look at this data, we can see that even among the top directors, there are some that consistently perform above what is expected. In this next graph, we look at the top directors. That is, the ten directors that appeared most frequently in our high revenue movie projects list:
