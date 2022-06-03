@@ -30,10 +30,13 @@ visualization_images/Ratings_and_Vote_unfiltered.png
 ![alt text](https://github.com/[zander1268]/[2.0-Microsoft-Movie-Analysis-AMA-Productions
 ]/blob/[master]/image.jpg?raw=true)
 
-![Profit and Ratings Correlation](visualization_images_Profit_and_rating_correlation.png)
-
+![Profit and Ratings Correlation](visualization_images\Profit\and\rating\correlation.png) 
 
 ![Budget Tier and Adjusted ROI](visualization_images/Budget_Tier_and_Adjusted_ROI.png)
+
+![Proposed Microsoft Budget Allocation By Budget Tier](visualization_images/Proposed_Microsoft_Films_Budget_Allocation_by_Budget_Tier.png)
+
+![Proposed Microsoft Films By Budget Tier](visualization_images/Proposed_Microsoft_Films_by_Budget_Tier.png)
 
 ![Ratings and Votes](visualization_images/Ratings_and_Vote_filtered.png)
 
