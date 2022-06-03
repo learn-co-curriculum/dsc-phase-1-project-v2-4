@@ -47,4 +47,18 @@ visualization_images/Ratings_and_Vote_unfiltered.png
 We found that investments in blockbusters produce a higher risk adjusted ROI than lower budget films. Romance is the most derisked genre, as even the failures (measured bu ratings) generate a profit. Choose the best rated directors that produce the highest number of votes (or "buzz"). A Christopher Nolan romance blockbuster coming soon to theaters near you!
 
 
+## Repository Structure
+
+├── 2.0-Microsoft-Movie-Analysis-AMA-Productions
+│   ├── __init__.py
+│   ├── data_preparation.py
+│   ├── visualizations.py
+│   └── eda_notebook.ipynb
+├── zippedData
+├── visualization_images
+├── __init__.py
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── final_notebook.ipynb
+
 
