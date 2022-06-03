@@ -38,7 +38,9 @@ visualization_images/Ratings_and_Vote_unfiltered.png
 
 ![Proposed Microsoft Films By Budget Tier](visualization_images/Proposed_Microsoft_Films_by_Budget_Tier.png)
 
-![Ratings and Votes](visualization_images/Ratings_and_Vote_filtered.png)
+![Ratings and Vote Totals By Director](visualization_images/Ratings_and_Vote_unfiltered.png)
+
+![Ratings and Vote Totals By Director](visualization_images/Ratings_and_Vote_filtered.png)
 
 
 
