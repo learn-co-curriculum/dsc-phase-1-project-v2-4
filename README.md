@@ -27,8 +27,6 @@ Three visualizations (the same visualizations presented in the slides and notebo
 visualization_images/Ratings_and_Vote_unfiltered.png
 
 
-![alt text](https://github.com/[zander1268]/[2.0-Microsoft-Movie-Analysis-AMA-Productions
-]/blob/[master]/image.jpg?raw=true)
 
 ![Profit and Ratings Correlation](visualization_images\Profit\and\rating\correlation.png) 
 
