@@ -1,0 +1,37 @@
+Here we can start to outline the project
+
+1. Business Understanding
+Who are the stakeholders?
+Microsoft executives.
+
+Goals?
+Looking to us to come up with recommendations as to what movies they should be making.
+   ** Are they looking for high grossing movies, genres
+   ** Award winning type movies
+   ** Big actors/actresses, screenwriters, directors, etc. 
+    
+   ** Correlation on budget vs box office? Return on their investment?
+    How well do indie movies that show at Cannes and Festivals, how well they do at box offices.
+    How much do movies make on dvd sales, licensing, streaming.
+
+What characters and franchises do they own that they could make movies from.
+    - Case study ex. how well do video game movies do. checking out how well those types of movies do.
+
+2. Prepare Data
+What data do we need?
+
+What data do we have available?
+5 datasets that they gave us.
+We're gonna need to know info on names of movies, years that came out, how well they did,
+    genre, who's in it, directors/writers attached, budget, awards they won, dvd sales, 
+    are they on streaming platforms
+
+
+3. Clean Data
+
+4. Analyze Data - EDA
+
+5. Visualize Data
+
+6. Create Project Presentation
+
