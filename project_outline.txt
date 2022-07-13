@@ -26,12 +26,32 @@ We're gonna need to know info on names of movies, years that came out, how well 
     genre, who's in it, directors/writers attached, budget, awards they won, dvd sales, 
     are they on streaming platforms
 
+collected dataframes with genre, movies, budget, domestic and worldwide gross 
 
 3. Clean Data
+collected dataframes with genre, movies, budget, domestic and worldwide gross 
+
 
 4. Analyze Data - EDA
 
+Garrett - Genres vs. box office vs profitability (worldwide box office - budget)
+Ji - ratings (R, PG-13, PG) vs box office (Rotten Tomatoes)
+Cameron - budget vs box office
+Ji - genre vs budget 
+
+Audience reception
+    (imdb and tmdb) correlation of audience score vs box office/profitability
+    average audience by genre 
+
+key personell
+    actors and box office
+    directors and box office 
+    writers and box office 
+    composers and box office
+
 5. Visualize Data
+
+fine tuning the visualizations that we create in the analysis 
 
 6. Create Project Presentation
 
