@@ -1,11 +1,10 @@
 
-![IT LOOMS](./microsoft-hq.jpeg)
+
 # Micrsoft Independent Live Films
 ### To Preface, a Note About Data Collection
 
 In the data api notebook you will notice that our team wrote a program that takes data directly from 'The Movie Database' API. While you are more than welcome to run that query and get the most up-to-date data, be wary that the query will take between two and three hours to run.
 
-![He wasn't wrong](./malcolm-y.jpeg)
 
 Yeah, but your (data) scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.
  -Dr. Ian Malcolm, Chaos Theory Mathematician 
