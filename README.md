@@ -1,4 +1,4 @@
-
+![ItLooms](./images/msft.jpeg)
 
 # Micrsoft Independent Live Films
 ### To Preface, a Note About Data Collection
@@ -8,7 +8,7 @@ In the data api notebook you will notice that our team wrote a program that take
 
 Yeah, but your (data) scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.
  -Dr. Ian Malcolm, Chaos Theory Mathematician 
-
+![NotWrong](./images/malcom-y.jpeg)
 ## Abstract
 
 
