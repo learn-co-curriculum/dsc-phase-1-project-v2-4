@@ -1,4 +1,4 @@
-# dsc-phase-1-project
+# Should Microsoft Start an independent Movie Studio?
 ### To Preface, a Note About Data Collection
 
 In the data api notebook you will notice that our team wrote a program that takes data directly from 'The Movie Database' API.
