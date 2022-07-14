@@ -1,9 +1,16 @@
 
+![IT LOOMS](./microsoft-hq.jpeg)
+# Micrsoft Independent Live Films
+### To Preface, a Note About Data Collection
 
-# Micrsoft Independent Live Film
+In the data api notebook you will notice that our team wrote a program that takes data directly from 'The Movie Database' API. While you are more than welcome to run that query and get the most up-to-date data, be wary that the query will take between two and three hours to run.
 
+![He wasn't wrong](./malcolm-y.jpeg)
 
-## Overview
+Yeah, but your (data) scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.
+ -Dr. Ian Malcolm, Chaos Theory Mathematician 
+
+## Abstract
 
 
 
@@ -13,9 +20,9 @@
 
 
 
-## Data
+## Data Description
 
-
+Copies of the data we used and how we prepared it for analysis are included in this repository. We have sourced our data primarily from 'Rotten Tomatoes,' 'IMDB,' and 'The Movie Database'
 
 ## Methods
 
@@ -23,37 +30,27 @@ This project uses descriptive analysis, including description of trends over tim
 
 ## Results
 
-Most animals have short stays at AAC (under 15 days) but some have long stays (over 180 days), and most of these are dogs.
 
-![stay_lengths_by_type](./images/stay_lengths_by_type.png)
-
-The total number of sheltered animals typically peaks in May of each year and then hits its lowest point around January. There is often a secondary peak sometime after May before the number of sheltered animals drops rapidly. The number of sheltered animals has dropped precipitously in 2020, likely as a result of COVID-19.
-
-![sheltered_by_month.png](./images/sheltered_by_month.png)
 
 ## Conclusions
 
-This analysis leads to three recommendations for improving operations of the Austin Animal Center:
+This analysis leads to three recommendations for a succesful foray into the realm of movie magic:
 
-- **Engage in targeted outreach campaigns for dogs that have been sheltered at AAC for more than 30 days.** While most dogs will have been placed after 30 days, this may help reduce the number of dogs that end up having extended stays, potentially requiring many more months of care.
-- **Reduce current spending until the numbers of intakes and sheltered animals return to normal.** Given the reduced activity during this period, AAC should consider ways to temporarily reduce costs by changing space utilization or staffing.
-- **Hire seasonal staff and rent temporary space for May through December.** To accommodate the high volume of intakes and number of sheltered animals in the spring and fall, AAC should leverage seasonal resources, rather than full-year ones. This will allow AAC to cut back on expenditures during the months when there is lower
+- **Uno
+- **Numba Two
+- **San
 
 ### Next Steps
 
 Further analyses could yield additional insights to further improve operations at AAC:
 
-- **Better prediction of animals that are likely to have long stays.** This modeling could use already available data, such as breed and intake condition.
-- **Model need for medical support.** This modeling could predict the need for specialized personnel to address animals' medical needs, including neutering, using intake condition and sex data.
-- **Predicting undesirable outcomes.** This modeling could identify animals that are more likely to have undesirable outcomes (e.g. Euthanasia) for targeted medical support or outreach.
+- **Potential release dates for increased revenue
+- **Advertising/Marketing ROI effets
+- **
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
-
-For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
-
-![logo](./images/aac_logo_tall.jpg)
+See the full analysis in the [Jupyter Notebook](./notebook/data_exploration.ipynb) or review this [presentation](./presentation/testy.txt).
 
 ## Repository Structure
 
@@ -65,8 +62,6 @@ For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@fl
 │   └── eda_notebook.ipynb
 ├── data
 ├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── presentation
+└── README.md
 ```
