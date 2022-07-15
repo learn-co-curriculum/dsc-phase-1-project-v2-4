@@ -21,9 +21,9 @@ Copies of the data we used and how we prepared it for analysis are included in t
 
 ## Methods
 
-bang head against wall
-assault screen with closed fists
-pray for it to end
+bang head against wall</br>
+assault screen with closed fist</br>
+pray for it to end</br>
 
 this haiku was brought to you by Brawndo. Brawndo has was plants crave! They've got electrolytes.
 
