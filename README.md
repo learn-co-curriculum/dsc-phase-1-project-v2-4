@@ -13,7 +13,11 @@ We found that Adventure, Sci-Fi, Animation, Action, Comedy, and Drama (in that o
 
 * Jeffsploration contains Jeff's Jupyter Notebook Jeffsploration uses imdb data together with budget data from the-numbers.com to create visualizations comparing genres as well as number of genres for films. Data wrangling and exploration is done with pandas. Genres are one-hot encoded so that a mask can be created. This allows values for each genre to be aggregated, and these aggregates include the genres when a film has multiples. Data visualizations are done with matplotlib.
 
-* hy_exploration files are Han's notebooks.
+* hy_exploration_1: han's early EDA on IMDA and TM
+
+* hy_exploration_2: han's second EDA and plots exploration
+
+* hy_exploration_3: han's cleanedup and final Notebook. it covers data import, data cleaning, brief observation and plot attempts.
 
 * Growing a Streaming Service.pptx
 
