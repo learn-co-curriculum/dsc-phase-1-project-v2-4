@@ -17,12 +17,14 @@ films for Microsoft to grow their new streaming service.
 
 
 ### Data Understanding and Analysis
-In the folder `zippedData` are movie datasets from:
-
+we explored these dataset:
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
+* [Rotten Tomatoes](https://www.rottentomatoes.com/)
+* [List of films based on video games](https://en.wikipedia.org/wiki/List_of_films_based_on_video_games)
+* [Film Adaptations of Video Games](https://www.kaggle.com/datasets/bcruise/film-adaptations-of-video-games?resource=download)
 
 
 
