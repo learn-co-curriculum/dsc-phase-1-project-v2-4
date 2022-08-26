@@ -1,3 +1,23 @@
+Han and Jeff Microsoft Streaming Service Project (Project 1)
+
+Jeffsploration contains Jeff's Jupyter Notebook
+Jeffsploration uses imdb data together with budget data from the-numbers.com to create visualizations comparing genres
+as well as number of genres for films.
+
+Data wrangling and exploration is done with pandas. Genres are one-hot encoded so that a mask can be created.
+This allows values for each genre to be aggregated, and these aggregates include the genres when a film has multiples.
+
+Data visualizations are done with matplotlib.
+
+
+
+Han's notebook can be found under
+
+
+
+
+
+
 # Phase 1 Project Description
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
