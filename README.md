@@ -17,7 +17,7 @@ films for Microsoft to grow their new streaming service.
 
 
 ### Data Understanding and Analysis
-we explored these dataset:
+we explored these datasets:
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
@@ -32,12 +32,12 @@ we explored these dataset:
 
 * Jeffsploration contains Jeff's Jupyter Notebook Jeffsploration uses imdb data together with budget data from the-numbers.com to create visualizations comparing genres as well as number of genres for films. Data wrangling and exploration is done with pandas. Genres are one-hot encoded so that a mask can be created. This allows values for each genre to be aggregated, and these aggregates include the genres when a film has multiples. Data visualizations are done with matplotlib.
 
-* hy_exploration_1: han's early EDA on IMDA and TM
+* hy_exploration_1: han's early EDA
 
 * hy_exploration_2: han's second EDA and plots exploration
 
-* hy_exploration_3: han's cleanedup and final Notebook. it covers data import, data cleaning, brief observation and plot attempts.
+* hy_exploration_3: han's cleaned-up and Final Notebook. it covers data import, data cleaning, brief observation and plots.
 
-* Growing a Streaming Service.pptx
+* Growing a Streaming Service.pptx: presentation doc
 
 * Plots folder contains exported images of seaborn and matplotlib images
